@@ -1,1 +1,1 @@
-# digital-clock
+# Quick Code
